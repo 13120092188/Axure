@@ -1,2 +1,2 @@
-# KidSpirit
-一个用Axure做的原形项目
+# Axure
+Axure原形项目
